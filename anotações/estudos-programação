@@ -1,17 +1,22 @@
-Compilador
-
-Framework
-
-Bibliotecas
-
-Linguagem
+------------------------------------------------------------------------------
+Hardware
+        -
+    Kernel
+        -
+    Sistema Operacional
+        -
+    Compilador
+        -
+    Framework
+            -
+        Bibliotecas
+            -
+        Linguagem
 
 ------------------------------------------------------------------------------
-
-IDE: VScodium
-
 Curso: Fullstack
+    IDE: Zed
+    Histórico: Git
 
-Linguagens: HTML, CSS, JavaScript
-
-Bibliotecas: React
+Linguagens: HTML, CSS, JavaScript, Python
+    Bibliotecas: React
