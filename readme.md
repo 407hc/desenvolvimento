@@ -1,4 +1,4 @@
-# 03 de julho de 2026 - s01-030726
+# s01-030726
 <> [phthon/*] Nesta sessão, estou iniciando os estudos de "lógica de programação".
 
 O script "Bloco 01 - Variáveis/01-pratica.py" representa a criação de variáveis e adoção de valores para operação de multiplicação e por fim, a apresentacão dos resultados com o comando print.
@@ -15,7 +15,7 @@ O script "Bloco 02 - Condicionais/03-pratica.py" foi utilizado o script "Bloco 0
 
 O script "Bloco 02 - Condicionais/04-pratica.py" foi utilizado o script "Bloco 02 - Condicionais/03-pratica.py" para comparar valores e tomar decisões com a condição "elif", a fim de conhecer melhor a lógica de programação quando existe mais de uma possibilidade de tomada de decisão.
 
-# 04 de julho de 2026 - s02-040726
+# s02-040726
 <> [phthon/*] Nesta sessão, estou praticando a criação de variáveis e condicionais em um novo cenário hipotético.
 
 O script "Bloco 03 - Treino/01-treino.py" foi utilizado para treinar a lógica de programação com condicionais, comparando valores e tomando decisões. Aprendi que uma boa prática é pular uma linha para demonstrar o fim de uma lógica simples e duas linhas para demonstrar o fim de uma lógica mais complexa. Além disso, também aprendi que para pular linhas renderizadas é necessário utilizar "\n" no final da frase para melhorar a formatação do texto.
