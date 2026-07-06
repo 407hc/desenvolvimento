@@ -1,5 +1,5 @@
-# s03-060726
-<> [/*]
+# s01-060726
+<> [javascript/*] Nesta sessão, estou praticando a criação de variáveis e renderização de conteúdo no console.
 
 
 # s02-040726
